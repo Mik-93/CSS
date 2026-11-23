@@ -1,0 +1,27 @@
+/* 
+
+    Sintaxis de CSS 
+
+    Cosnta de 3 elementos:
+    - Selector
+    - Llaves 
+    - porpiedad
+    - valor
+
+    Selector {
+        propiedad: valor;
+        ...
+
+    }
+    - Selector: Elemento al que se le aplica un estilo 
+    - Propiedad: Lacaracteriscitca que se define en este elemento(color, tamaño de letra, posición,|borde, color de borde, redondez de bordae, etc) 
+    - Valor: Estiloq ue se aplica a la propiedad (rojo, 24px, 10px, 5px, 50%, etc)
+
+IMPORTANTE: El conjjunto de esots 3 elementos se le conoce como "REGLA DE CSS"  
+
+*/
+
+body {
+    Background-color: olive;
+    color: #e9b0ff;
+}
